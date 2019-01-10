@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/sarathd/React_Native/DSTodo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.m \
+  /Users/sarathd/React_Native/DSTodo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/sarathd/React_Native/DSTodo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h

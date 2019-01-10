@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>2AC1EB8E-CA48-4869-918C-821F01BA5D0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2AC1EB8E-CA48-4869-918C-821F01BA5D0E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>DSTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DSTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DSTodo with scheme DSTodo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568800652.09277797</real>
+			<key>timeStoppedRecording</key>
+			<real>568800655.98836505</real>
+			<key>title</key>
+			<string>Building project DSTodo with scheme DSTodo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2AC1EB8E-CA48-4869-918C-821F01BA5D0E</string>
+		</dict>
+		<key>F1D71FFB-ACED-4A5B-AA42-89D478E8CBD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1D71FFB-ACED-4A5B-AA42-89D478E8CBD4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>DSTodo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DSTodo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DSTodo with scheme DSTodo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568800768.13880599</real>
+			<key>timeStoppedRecording</key>
+			<real>568800775.11678696</real>
+			<key>title</key>
+			<string>Building project DSTodo with scheme DSTodo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F1D71FFB-ACED-4A5B-AA42-89D478E8CBD4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

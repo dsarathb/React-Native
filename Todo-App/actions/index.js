@@ -1,0 +1,4 @@
+export const ADD_TODO_TASK = 'ADD_TODO_TASK';
+export const PENDING_TODO_TASK = 'PENDING_TODO_TASK';
+export const COMPLETED_TODO_TASK = 'COMPLETED_TODO_TASK';
+export const TODO_LIST = 'TODO_LIST';
